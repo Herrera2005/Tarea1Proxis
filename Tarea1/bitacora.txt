@@ -1,0 +1,8 @@
+2024/11/08: hkkjk - Ingreso fallido usuario/clave erróneo
+2024/11/08: bbbnk - Ingreso fallido usuario/clave erróneo
+2024/11/08: bbbnk - Salida del sistema
+2024/11/08: usuario1 - Ingreso exitoso al sistema
+2024/11/08: usuario1 - Paralelogramo
+2024/11/08: usuario1 - Esfera
+2024/11/08: usuario1 - Esfera
+2024/11/08: usuario1 - Salida del sistema
