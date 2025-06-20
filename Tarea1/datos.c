@@ -28,6 +28,7 @@ void calcularTriangulo(){
 }
 
 void calcularParalelogramo(){
+  
   float base, altura, lado;
   printf("Ingrese la base del paralelogramo: ");
   scanf("%f", &base);
